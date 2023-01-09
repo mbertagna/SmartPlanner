@@ -12,7 +12,7 @@ class Task:
         ----------
         name : str
             The task itself.
-        est_completion_time : double
+        est_completion_time : float
             The estimated amount of time in hours 
             required to complete the task.
         due_date : datetime
@@ -21,6 +21,18 @@ class Task:
         self.m_name = name
         self.m_est_completion_time = est_completion_time
         self.m_due_date = due_date
+
+    def get_name(self):
+        return self.m_name
+
+    def get_est_completion_time(self):
+        return self.m_est_completion_time
+
+    def get_due_date(self):
+        return self.m_due_date
+
+    def set_est_completion_time(self, est_completion_time):
+        self.m_est_completion_time = est_completion_time
 
     def __eq__(self, other_task) -> bool:
         return self.m_due_date == other_task.m_due_date
