@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bVkfKrQTRz1beJEg1LKnr-r0M1wAEn4-?usp=sharing]
+
 # SmartPlanner
 A dynamic scheduler application which can curate and save multiple schedules in one planner.
 Simply create a subdirectory named "schedules" and add one or more text files (with a ".txt" extension) to it with any amount of tasks using the following format:
