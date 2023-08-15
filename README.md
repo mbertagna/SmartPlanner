@@ -1,5 +1,5 @@
-[![Center of Energy Demo - Focal Plane](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bVkfKrQTRz1beJEg1LKnr-r0M1wAEn4-?usp=sharing)
-[![Center of Energy Demo - Focal Plane](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bVkfKrQTRz1beJEg1LKnr-r0M1wAEn4-?usp=sharing)
+[![Center of Energy Demo - Focal Plane](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/1YAcrPSSQubkc4ogXltOIO_2lLGKKwJOY?usp=sharing)
+
 
 # SmartPlanner
 A dynamic scheduler application which can curate and save multiple schedules in one planner.
